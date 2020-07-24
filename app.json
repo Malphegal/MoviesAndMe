@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "MoviesAndMe",
+    "slug": "MoviesAndMe",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/neko.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "host.exp.neko"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
